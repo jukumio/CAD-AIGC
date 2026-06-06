@@ -34,6 +34,7 @@ chain/typechain-types/
 
 # Project Specific
 data/outputs/*
+data/test/*
 GEMINI.md
 .DS_Store
 
