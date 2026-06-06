@@ -72,8 +72,3 @@ python -m t2c_prov.cli.verify --prompt "a simple box with dimensions 10x10x10"
 python -m t2c_prov.cli.audit --file path/to/model.step
 ```
 
-## License
-[Specify License, e.g., MIT]
-
----
-*Developed as an MVP for anchoring AI-generated CAD provenance.*
