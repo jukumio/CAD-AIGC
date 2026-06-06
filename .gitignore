@@ -33,8 +33,10 @@ chain/cache/
 chain/typechain-types/
 
 # Project Specific
+data/*
 data/outputs/*
-data/test/*
+data/tests/*
+data/tests/similarity
 GEMINI.md
 .DS_Store
 
